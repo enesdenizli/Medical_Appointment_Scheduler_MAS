@@ -1,5 +1,5 @@
 
-## MAS (Medical Appointment Scheduler)
+# MAS (Medical Appointment Scheduler)
 MAS allows patients to log on and schedule appointments with their physician and nurse online.
 Physicians and nurses can login as users as well. This gives physicians, nurses and patients the ability to
 digitally keep track of and store medical appointment data.
